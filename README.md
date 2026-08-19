@@ -1,7 +1,5 @@
 # Power BI Projects
 
-This folder contains my Power BI projects developed as part of my MSc in Artificial Intelligence at the University of Essex.
-
 The projects demonstrate my ability to work with data, transform and analyse datasets, create interactive dashboards, and communicate insights through data visualisation.
 
 ## Projects
@@ -22,9 +20,8 @@ An interactive dashboard analysing diabetes-related data.
 
 📁 [View Project](./Project-1-Diabetes-Dashboard/)
 
-### 2. [Project Name]
+### 2. Data Professional Survey Breakdown
 
-[Short description of what the dashboard analyses and the main objective.]
 
 **Skills demonstrated:**
 
